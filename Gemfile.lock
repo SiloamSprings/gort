@@ -1,0 +1,18 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    crack (0.1.8)
+    eventmachine (0.12.10)
+    httparty (0.7.4)
+      crack (= 0.1.8)
+    net-ping (1.4.0)
+    rufus-scheduler (2.0.6)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  eventmachine
+  httparty
+  net-ping
+  rufus-scheduler
